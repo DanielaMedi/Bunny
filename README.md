@@ -1,4 +1,4 @@
-
+![imagenjuego](Assets/Sprites/BunPatch.png)
 # 🐰 Voice Bunny Runner
 
 An accessible endless runner game developed in **Unity**, designed specifically for people with limited or no hand mobility. The game uses **voice commands** as the primary input method, allowing players to control the character without relying on traditional controllers, keyboards, or touch input.
