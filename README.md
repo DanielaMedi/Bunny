@@ -1,6 +1,6 @@
  
 <img src="Assets/Sprites/BunPatch.png" width="600">
-# 🐰 BunPatch
+🐰 BunPatch
 
 An accessible endless runner game developed in **Unity**, designed specifically for people with limited or no hand mobility. The game uses **voice commands** as the primary input method, allowing players to control the character without relying on traditional controllers, keyboards, or touch input.
 
@@ -18,17 +18,11 @@ The project was developed as an initiative to promote accessibility and demonstr
 
 * Control a rabbit using voice commands.
 * Move between lanes to collect carrots.
+* Use voice commands to control the interface.
 * Avoid obstacles that appear along the path.
 * Earn points by collecting carrots and surviving longer.
 * Designed for hands-free interaction.
-
-### Example Voice Commands
-
-| Command  | Action                    |
-| -------- | ------------------------- |
-| "Left"   | Move to the left lane     |
-| "Right"  | Move to the right lane    |
-| "Center" | Return to the center lane |
+* The carrot and the time score.
 
 ---
 
