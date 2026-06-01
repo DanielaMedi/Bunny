@@ -1,4 +1,4 @@
-![imagenjuego](Assets/Sprites/BunPatch.png) 
+ 
 <img src="Assets/Sprites/BunPatch.png" width="600">
 # 🐰 BunPatch
 
