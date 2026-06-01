@@ -1,0 +1,264 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8042071558143856744
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Fxmuv
+  m_EditorClassIdentifier: 
+  Path: event:/Fxmuv
+  Guid:
+    Data1: 986271258
+    Data2: 1327324209
+    Data3: 1791687585
+    Data4: 1522190357
+  Banks:
+  - {fileID: -2288726360306964196}
+  - {fileID: 2631846385699320441}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 80
+--- !u!114 &-7164271645404642974
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/FxRecolect.bank
+  m_EditorClassIdentifier: 
+  Path: ../Fmod-Desaing/JuegoBunny/Build/Desktop/FxRecolect.bank
+  Name: FxRecolect
+  StudioPath: bank:/FxRecolect
+  lastModified: 638653745413816435
+  FileSizes:
+  - Name: Desktop
+    Value: 123776
+  Exists: 1
+--- !u!114 &-5571079113915958165
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../Fmod-Desaing/JuegoBunny/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638653745412814787
+  FileSizes:
+  - Name: Desktop
+    Value: 1036
+  Exists: 1
+--- !u!114 &-3846796680458553459
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Seleccion
+  m_EditorClassIdentifier: 
+  Path: event:/Seleccion
+  Guid:
+    Data1: -1093001024
+    Data2: 1273014909
+    Data3: -1685063530
+    Data4: 1757902469
+  Banks:
+  - {fileID: 2631846385699320441}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 110
+--- !u!114 &-2288726360306964196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/FXMove.bank
+  m_EditorClassIdentifier: 
+  Path: ../Fmod-Desaing/JuegoBunny/Build/Desktop/FXMove.bank
+  Name: FXMove
+  StudioPath: bank:/FXMove
+  lastModified: 638653745413505245
+  FileSizes:
+  - Name: Desktop
+    Value: 124672
+  Exists: 1
+--- !u!114 &-904036878249445952
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/dfasdf.bank
+  m_EditorClassIdentifier: 
+  Path: ../Fmod-Desaing/JuegoBunny/Build/Desktop/dfasdf.bank
+  Name: dfasdf
+  StudioPath: bank:/dfasdf
+  lastModified: 638648701716503930
+  FileSizes:
+  - Name: Desktop
+    Value: 1389600
+  Exists: 1
+--- !u!114 &-30673097698643823
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../Fmod-Desaing/JuegoBunny/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638653745412844983
+  FileSizes:
+  - Name: Desktop
+    Value: 1072
+  Exists: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -30673097698643823}
+  - {fileID: -904036878249445952}
+  - {fileID: -5571079113915958165}
+  - {fileID: 2631846385699320441}
+  - {fileID: -2288726360306964196}
+  - {fileID: -7164271645404642974}
+  EditorEvents:
+  - {fileID: 1214247297343102301}
+  - {fileID: -3846796680458553459}
+  - {fileID: -8042071558143856744}
+  - {fileID: 2285026696260178127}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: -5571079113915958165}
+  StringsBanks:
+  - {fileID: -30673097698643823}
+  cacheTime: 638653745413816435
+  cacheVersion: 131618
+--- !u!114 &1214247297343102301
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/New Event
+  m_EditorClassIdentifier: 
+  Path: event:/New Event
+  Guid:
+    Data1: 166238425
+    Data2: 1202646394
+    Data3: 701495175
+    Data4: 1947747964
+  Banks:
+  - {fileID: -904036878249445952}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 98037
+--- !u!114 &2285026696260178127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Fxrecord
+  m_EditorClassIdentifier: 
+  Path: event:/Fxrecord
+  Guid:
+    Data1: 251169345
+    Data2: 1298005649
+    Data3: 1530749319
+    Data4: 1805632003
+  Banks:
+  - {fileID: -2288726360306964196}
+  - {fileID: -7164271645404642974}
+  - {fileID: 2631846385699320441}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 460
+--- !u!114 &2631846385699320441
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Recursos.bank
+  m_EditorClassIdentifier: 
+  Path: ../Fmod-Desaing/JuegoBunny/Build/Desktop/Recursos.bank
+  Name: Recursos
+  StudioPath: bank:/Recursos
+  lastModified: 638653745413187251
+  FileSizes:
+  - Name: Desktop
+    Value: 134400
+  Exists: 1
